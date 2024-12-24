@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mall{
+    background-image: url(/images/desktop/image-header.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.graphic{
+    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.photographic2{
+    background-image: url(/images/desktop/image-photography.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
